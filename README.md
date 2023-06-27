@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevBlogs404
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a Full Stack Web Developer.
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: though my Portfolio and Github
 
