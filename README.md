@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DevBlogs404
-- 🌱 I’m a Full Stack Web Developer.
+- 👋 Hi, I’m @Shubham
+- 🌱 I’m a Front-end web developer, working on my way to Full-Stack
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: though my Portfolio and Github
 
