@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Avira - E-commerce**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS && DSA**
 
 - 👨‍💻 All of my projects are available at [https://shubham-six-coral-56.vercel.app/](https://shubham-six-coral-56.vercel.app/)
 
