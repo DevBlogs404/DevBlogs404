@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Avira - E-commerce**
+- 🔭 I’m currently working on **Open Table Clone**
 
 - 🌱 I’m currently learning **NextJS && DSA**
 
