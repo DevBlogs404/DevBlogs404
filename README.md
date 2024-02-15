@@ -1,11 +1,11 @@
- <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+ <h1 align="center">Hi 👋, I'm **Shubham**</h1>
+<h3 align="center">A Web developer from India</h3>
 
-- 🔭 I’m currently working on **Open Table Clone**
+- 🔭 I’m currently working on **NextJs + AI/ML**
 
-- 🌱 I’m currently learning **NextJS && DSA**
+- 🌱 I’m currently learning about **AI/ML Web apps**
 
-- 👨‍💻 All of my projects are available at [https://shubham-six-coral-56.vercel.app/](https://shubham-six-coral-56.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://new-portfolio-beige-iota.vercel.app/](https://new-portfolio-beige-iota.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
